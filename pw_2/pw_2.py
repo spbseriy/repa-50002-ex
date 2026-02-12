@@ -7,7 +7,7 @@ print("Шест",hex(a))
 
 
 #task 1
-a_1 = 45
-print(bin(a_1))
-print(oct(a_1))
-print(hex(a_1))
+b_1 = 45
+print(bin(b_1))
+print(oct(b_1))
+print(hex(b_1))
